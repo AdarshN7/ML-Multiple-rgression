@@ -1,0 +1,5 @@
+Q1: What Is Multiple Linear Regression (MLR)?
+Q2: How to Use Multiple Linear Regression explain with proper example?
+Q3: What are the Difference Between Linear Vs Polynomial Vs Multiple Regression?
+Q4: Why would one use a multiple regression over a simple OLS regression?
+Q5: 
